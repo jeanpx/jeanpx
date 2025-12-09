@@ -23,3 +23,9 @@ Soy **desarrollador web** enfocado en construir aplicaciones limpias y mantenibl
 
 - Email: jeanquinhuaman15@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jeanquin
+
+
+## 📊 GitHub Stats
+
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanpx&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpx&layout=compact&theme=github_dark)
