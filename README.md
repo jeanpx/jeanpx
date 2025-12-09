@@ -19,6 +19,11 @@ Soy **desarrollador web** enfocado en construir aplicaciones limpias y mantenibl
 - **Frontend:** HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub, VS Code
 
+## 🧑‍💻 Experiencia
+
+- **Fiberpro** – Desarrollador Odoo / Python (20XX–actualidad)  
+  Desarrollo y mantenimiento de módulos Odoo, reportes y flujos internos.
+
 ## 📫 Contacto
 
 - Email: jeanquinhuaman15@gmail.com
