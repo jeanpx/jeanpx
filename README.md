@@ -31,6 +31,6 @@ Soy **desarrollador web** enfocado en construir aplicaciones limpias y mantenibl
 
 ## 📊 GitHub Stats
 
-<img src="[https://github-readme-stats.vercel.app/api?username=jeanpx&show_icons=true&theme=github_dark](https://github-readme-stats.vercel.app/api?username=jeanpx&show_icons=true&theme=github_dark)" alt="Jean's GitHub stats" />
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanpx&show_icons=true&theme=github_dark)
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpx&layout=compact&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpx&layout=compact&theme=github_dark)" alt="Top Langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpx&layout=compact&theme=github_dark)
