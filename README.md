@@ -24,6 +24,11 @@ Soy **desarrollador web** enfocado en construir aplicaciones limpias y mantenibl
 - **Fiberpro** – Desarrollador Odoo / Python (2025–actualidad)  
   Desarrollo y mantenimiento de módulos Odoo, reportes y flujos internos.
 
+## 🎯 Ahora
+
+- Mejorando mi nivel en arquitectura backend y buenas prácticas con Python/Odoo.
+- Construyendo proyectos personales web para practicar frontend y APIs.
+
 ## 📫 Contacto
 
 - Email: jeanquinhuaman15@gmail.com
