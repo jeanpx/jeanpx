@@ -21,7 +21,7 @@ Soy **desarrollador web** enfocado en construir aplicaciones limpias y mantenibl
 
 ## 🧑‍💻 Experiencia
 
-- **Fiberpro** – Desarrollador Odoo / Python (20XX–actualidad)  
+- **Fiberpro** – Desarrollador Odoo / Python (2025–actualidad)  
   Desarrollo y mantenimiento de módulos Odoo, reportes y flujos internos.
 
 ## 📫 Contacto
