@@ -15,7 +15,7 @@ Soy **desarrollador web** enfocado en construir aplicaciones limpias y mantenibl
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python, Odoo, (añade aquí: Django / Flask / FastAPI si aplica)
+- **Backend:** Python, Odoo
 - **Frontend:** HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub, VS Code
 
