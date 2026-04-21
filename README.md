@@ -11,7 +11,7 @@ Soy **desarrollador web** enfocado en construir aplicaciones limpias y mantenibl
 
 - [portafolio](https://github.com/jeanpx/portafolio) – Mi portafolio web personal.
 - [nbdev_holamundo](https://github.com/jeanpx/nbdev_holamundo) – Ejemplo de repo basado en nbdev.
-- [gifwhale](https://github.com/jeanpx/gifwhale](https://github.com/jeanpx/gifsweb) – API de gifs.
+- [gifwhale](https://github.com/jeanpx/gifsweb) – API de gifs.
 
 ## 🛠️ Tech Stack
 
